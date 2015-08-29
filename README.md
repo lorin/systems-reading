@@ -1,6 +1,6 @@
 # Systems and failure reading list
 
-This page contains references to books and papers about complex systems and how
+This page contains references to books about complex systems and how
 they fail. I'm interested in how these relate to software systems, so my
 comments will be biased in that direction.
 
