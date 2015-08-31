@@ -69,6 +69,16 @@ pathologies) of complex systems. Examples of such axioms include:
 Although originally written decades before the emergence of web-based Internet
 services, the concepts are surprisingly applicable.
 
+### Report of Columbia Accident Investigation Board
+Aug 26, 2003.
+
+[link](http://www.nasa.gov/columbia/home/CAIB_Vol1.html)
+
+This is NASA's post-mortem report on the Space Shuttle Columbia accident. It is
+a surprisingly readable document that describes the incident and contributing
+factors.
+
+
 ### Thinking in Systems: A Primer
 Donella H. Meadows,
 Chelsea Green Publishing,
