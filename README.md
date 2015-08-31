@@ -94,6 +94,15 @@ This book is very popular in the DevOps community. I must admit that I haven't
 read it yet.
 
 
+### The Language of the System (video)
+Rich Hickey,
+Feb. 2013
+
+[YouTube link](https://www.youtube.com/watch?v=ROor6_NGIWU)
+
+Hickey is alwways an engineering speaker. In this talk, he compares and
+contrasts how we build programs with how we build systems.
+
 
 ### Antifragile: Things That Gain from Disorder
 Nassim Nicholas Taleb,
@@ -102,4 +111,23 @@ Random House,
 
 The big idea of this book is that there are some systems that acutally get
 better when exposed to doses of damage.
+
+
+### In Search of Certainty
+Mark Burgess,
+O'Reilly Media,
+2015.
+
+Burgess is the author of the venerable CFEngine configuration management system,
+and this book is a kind of generalation of CFEngine's notion of convergence to
+more general principles for designing IT-based systems, based on what Burgess
+calls promise theory.
+
+I debated whether to even put this book on the list here, as I struggled with
+it. There are ideas worth pondering, but the book lacks focus, and the author
+meanders across disparate topics without doing a good job tying them into a
+unified whole.
+
+
+
 
