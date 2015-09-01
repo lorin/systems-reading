@@ -1,6 +1,6 @@
 # Systems and failure reading list
 
-This page contains references to books about complex systems and how
+This page contains references to books and papers about complex systems and how
 they fail. I'm interested in how these relate to software systems, so my
 comments will be biased in that direction.
 
@@ -27,6 +27,25 @@ Unfortunately, the types of failure retrospectives that happen in civil
 engineering don't happen in IT at the community level. Yes, these retrospectives
 do happen inside IT organizations, but we don't have the same kinds of
 mechanisms for sharing these lessons in the wider community.
+
+### How Complex Systems Fail
+Richard I. Cook,
+Cognitive Technologies Laboratory,
+University of Chicago,
+Revision D (00.04.21)
+
+[pdf](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+
+Cook presents eighteen observations about systems. It's tempting to simply
+reproduce them all here, but a few examples should suffice to give a sense of
+the paper:
+
+* Complex systems run in degraded mode.
+* All practitioner actions are gambles.
+* Change introduces new forms of failure.
+
+This essay is also reproduced as chapter 7 in "Web Operations: Keeping the Data
+on Time" by O'Reilly Press.
 
 
 ### Normal Accidents: Living with High-Risk Technologies
