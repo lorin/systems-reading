@@ -65,11 +65,38 @@ Dorset House,
 
 There seem to be two schools of thought on the idea of "systems thinking". One
 of the schools is about how to think about problems, and the other one is about
-how to model the world.
+how to model the world.  This book falls into the former category: about how to
+think about problems. He goes into some detail about the imperfect nature of
+observation.
 
-This book falls into the former category: about how to think about problems.
-From Weinberg's perspective, systems thinking is a holistic, organic approach
-to thinking about problems, as opposed to a reductionist, analytic approach.
+Weinberg's a software guy, and so he makes heavy use of discrete models:
+finite sets and state representations. This is quite different from Meaadows'
+perspective, which uses stocks and flows.
+
+Weinberg summarizes many of the concepts into a pithy set of principles and
+laws, with names like:
+
+ * Square law of computation
+ * Law of medium numbers
+ * Law of conservation of laws
+ * Law of happy particularities
+ * Law of unhappy particularities
+ * Composition law
+ * Decomposition law
+ * Banana principle
+ * Principle of indifference
+ * Eye-brain law
+ * Generalized Thermodynamics law
+ * Lump law
+ * Generalized law of complementarity
+ * Principle of difference
+ * Axiom of experience
+ * Principle of invariance
+ * Perfect systems law
+ * Strong connection law
+ * Picture principle
+ * Principle of indeterminability
+ * Used car law
 
 
 ### The Systems Bible: The Beginner's Guide to Systems Large and Small
