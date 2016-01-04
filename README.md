@@ -156,7 +156,7 @@ Feb. 2013
 
 [YouTube link](https://www.youtube.com/watch?v=ROor6_NGIWU)
 
-Hickey is alwways an engineering speaker. In this talk, he compares and
+Hickey is always an engaging speaker. In this talk, he compares and
 contrasts how we build programs with how we build systems.
 
 
