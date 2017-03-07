@@ -148,8 +148,7 @@ Ashgate,
 Dekker proposes a new model of thinking about accidents: focus on a holistic
 view rather than loooking for a broken part. A fantastic book.
 
-### Reconstructing human contributions to accidents: the new view on error and
-performance
+### Reconstructing human contributions to accidents: the new view on error and performance
 Sidney Dekker,
 Journal of Safety Research 33 (2002) 371-385.
 
