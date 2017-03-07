@@ -175,7 +175,7 @@ O'Reilly Media,
 2015.
 
 Burgess is the author of the venerable CFEngine configuration management system,
-and this book is a kind of generalation of CFEngine's notion of convergence to
+and this book is a kind of generalization of CFEngine's notion of convergence to
 more general principles for designing IT-based systems, based on what Burgess
 calls promise theory.
 
