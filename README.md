@@ -161,6 +161,7 @@ accident analysis. Instead, it advocates for "human sensemaking":
 You can see the seeds of "Drift Into Failure" in this earlier paper by Dekker.
 
 He notes the following mechanisms of hindsight:
+
 1. Making tangled histories linear by cherry-picking and re-grouping evidence
 1. Finding what people could have done to avoid the accident
 1. Judging people for what they did not do but should have done
