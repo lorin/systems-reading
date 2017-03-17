@@ -189,7 +189,7 @@ Some quotes from the paper:
 - it is critical to understand why people did what they did
 - human error is a symptom of trouble deeper inside the system
 - safety is not inherent in systems
-- human error is systematically connected to feateurs of people, tools, task,
+- human error is systematically connected to features of people, tools, task,
     and operating environment. Progress on safety comes from understanding and
     influencing these connections.
 - [effective countermeasures start with] the error-producing conditions present
