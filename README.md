@@ -258,5 +258,53 @@ meanders across disparate topics without doing a good job tying them into a
 unified whole.
 
 
+### Part Count and Design of Robust Systems
+Daniel Frey, Joseph Palladino, John Sullivan, Malvern Atherton,
+16th Annual International Symposium of the International Council on Systems Engineering (INCOSE), July 9–14, 2006, Orlando, FL.
 
+[doi:10.1002/sys.20071](http://onlinelibrary.wiley.com/doi/10.1002/sys.20071/full)
 
+Discusses whether reducing part count improves the robustness of a system.
+Examines the issue from the perspective of three diffferent theories, and from
+three case studies in the domain of gas turbine engines. 
+
+Conclusion: At the component-level, reducing part count has led to
+improvements, at the system-level, part count has increased in order to achieve
+better reliability, and that the theory of Highly Optimized Tolerance best
+captures this phenomenon.
+
+Also, part reductions at the component-level, while they have benefits, also
+increase the complexity and coupling of the design and manufacturing stages.
+
+#### Theories
+
+* Theory of Inventive Problem Solving (TRIZ - Russian acronym)
+* Axiomatic Design (AD)
+* Highly Optimized Tolerance (HOT)
+
+#### Case studies
+
+* Separate blades and rotors versus an integral design
+* Blade count reduction in compressor design
+* Engine control system
+
+#### Choice quotes
+
+Unique part count is important in systems engineering because it creates
+demands on inter-functional coordination and in logistics and supply chain
+management
+
+While it has become cliché that greater complexity creates unreliability, the
+actual story is more complicated... The essence of this robustness, and hence
+of complexity, is the elaboration of highly structured communication,
+computing, adn control networks that also create barriers to cascading failure
+events (quotes Carson & Doyle).
+
+The theory of Highly Optimized Tolerance suggests that systems will evolve
+towards more complexity as robustness demands require countermeasures against
+failure modes.
+
+To summarize, although part count reduction is eventually observed at the
+component level as suggested by TRIZ, when the scope is enlarged to the system
+context, escalating demands for system robustness have generally resulted in
+increased number of parts and number of unique parts in jet engines.
