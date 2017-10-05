@@ -308,3 +308,18 @@ To summarize, although part count reduction is eventually observed at the
 component level as suggested by TRIZ, when the scope is enlarged to the system
 context, escalating demands for system robustness have generally resulted in
 increased number of parts and number of unique parts in jet engines.
+
+### Ironies of automation
+Lisanne Bainbridge,
+Automatica,
+Volume 19, Issue 6, November 1983, Pages 775-779.
+<https://doi.org/10.1016/0005-1098(83)90046-8>
+
+Bainbridge describes how the adopting automation can increase the occurence of
+incidents.
+
+Design errors in the automation system can be a major source of operating problems.
+
+As automation increases, operators have less experience, and therefore when
+they need to take over, they are more likely to make a mistake.
+
