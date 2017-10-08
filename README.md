@@ -335,16 +335,22 @@ accidents occur. He argues that accidents occur because the system migrates
 across a dangerous boundary, and this migration occurs during the course of
 normal work.
 
-Terms and sentences of interest:
-
+#### Terms
 - Systems approach
 - Control-theoretic
+- decisions, acts, and errors
+- hazard source
+- anatomy of accidents
+- energy
+- systems thinking
+
+#### Sentences
+
 - Attempts to improve the safety of a system from models of lacal features were
   compensated by people adapting to the change in an unpredicted way
 - It is thus becoming increasingly difficult to model systems in isolation and
   to make small-scale, local experiments to evaluate modles
 - competitive environment
-- decisions, acts, and errors
 - They cannot, however, foresee all local contingencies of the work context
 - operators' violations of oformal rules appear to be quite rational
 - behaviour is context dependent
@@ -381,14 +387,9 @@ Terms and sentences of interest:
   of a work system is therefore mandatory for risk management.
 - In environments where accidents are frequent and small-scale, safety is typically controlled empirically from epidemiological studies of
   past accidents
-- hazard source
-- anatomy of accidents
 - high reliability explained by high degree of learning & self-organization,
   faciliated by rapid turn-over of staff in the navy
-- very high degree of functional redundancy, protecting against errors and
-  resource violations
-- energy
-- systems thinking
+- very high degree of functional redundancy, protecting against errors and resource violations
 - risk homeostatis - adaption seeking to maintain a stable level of perceived
   risk
 -  most recent major accidents in large scale industrial systems appear to be
