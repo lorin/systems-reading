@@ -437,6 +437,100 @@ normal work.
     5. Implications for research and for control of human behavior
 11. Conclusion
 
+
+### Four concepts for resilience and the implications for the future of resilience engineering
+David D. Woods,
+Reliability Engineering and System Safety,
+Volume 141, September 2015, Pages 5-9,
+<https://doi.org/10.1016/j.ress.2015.03.018>
+
+[pdf](https://www.researchgate.net/publication/276139783_Four_concepts_for_resilience_and_the_implications_for_the_future_of_resilience_engineering)
+
+Woods argues that the term *resilience* is overloaded. He outlines four commonly used meanings:
+
+1. rebound (response to surprises)
+2. robustness (increased ability to absorb pertubations)
+3. graceful extensibility (how systems stretch to handle surprises)
+4. sustained adaptability
+
+Woods defines a *surprise* as a disturbance to the system that is outside of the envelope of
+events that the system can normally handle.
+
+**Rebound** refers to the ability of a system to recover after a surprise.
+In this defintion, more resilient systems are better able to recover from surprises.
+
+**Robustness** refers to the set of disturbances that the system can respond to
+effectively. In this definition, more resilient systems can gracefully respond to a
+larger set of disturbances (i.e., fewer of these disturbances are surprises).
+
+Woods criticizes robustness because it says nothing about what happens to a
+system when it encounters a surprise. A system may be resilient by this
+definition and yet utterly collapse when faced with a surprise. (He uses the
+phrase *brittle at its boundaries*).
+
+Woods also points out that as the performance envelope of a system widens,
+it may become vulnerable to new kinds of events.
+
+**Graceful extensibility** refers to the ability of a system to change itself in order
+to better handle the different kinds of surprises that it may face in the
+future. He uses the term *stretching*, asking *how do systems stretch to handle
+surprises?* 
+
+An extended quote:
+
+> Systems with high graceful extensibility have capbilities to anticipate
+> bottlenecks ahead, to learn about the changing shape of disturbances and
+> possess the readiness-to-respond to adjust responsies to fit the challenges.
+
+The above quote makes it sound like this concept is proactive, but Woods notes
+that:
+
+> [S]urprise has regular characteristics as many classes of challenge re-cur
+> ... which can be tracked and used as signals for adaptation.
+
+Woods contrasts graceful extensibility with what he calls *brittleness*,
+defined as *how rapidly a system's performance declines when it nears and
+reaches its boundary*.
+
+
+**Sustained adaptability** refers to systems that are flexibile enough to adapt over long time
+scales. Woods claims that this type of resilience requires that the system
+have a *layered network* architecture, (a necessary but not sufficient
+condition). He argues that a system needs this type of architecture early
+in its life cycle in order to be able to adapt to changes across the system's life cycle.
+Even as the system adapts, it will preserve certain architectural principles
+that provide it with the ability to adapt.
+
+Woods asks the following questions of such systems:
+
+1. What governance or architectural characteristics explain the difference
+between networks that produce sustained adptability and those that fail to
+sustain adaptability?
+2. What design principles and techniques would allow one to engineer a network
+that can produce sustained adaptability?
+3. How would one know if one succeeded in their engineering?
+
+
+Ultimately, Woods argues that *rebound* and *robustness* concepts have proven to be less useful 
+He emphasizes the value of *graceful extensibility* and *sustained adaptability*.
+
+
+#### rebound
+
+#### robustness
+
+### graceful extensibility
+
+
+### sustained adaptability
+
+
+
+
+
+
+
+
 ## Availability
 
 ### Why Do Computers Stop and What Can Be Done About It?
