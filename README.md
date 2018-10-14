@@ -2,8 +2,9 @@
 
 This page contains references to books and papers about complex systems and how
 they fail. I'm interested in how these relate to software systems, so my
-comments will be biased in that direction. In particular, the "availability" section at the bottom is specific
-to availability of distributed systems.
+comments will be biased in that direction. In particular, the
+[availability](#availability) section is specific to high availability
+in distributed systems.
 
 Mark McGranaghan maintains a [services engineering reading list][1] with some
 significant overlap.
