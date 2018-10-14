@@ -458,12 +458,12 @@ events that the system can normally handle.
 
 #### Rebound
 
-**Rebound** refers to the ability of a system to recover after a surprise.
+Rebound refers to the ability of a system to recover after a surprise.
 In this defintion, more resilient systems are better able to recover from surprises.
 
 #### Robustness
 
-**Robustness** refers to the set of disturbances that the system can respond to
+Robustness refers to the set of disturbances that the system can respond to
 effectively. In this definition, more resilient systems can gracefully respond to a
 larger set of disturbances (i.e., fewer of these disturbances are surprises).
 
@@ -477,7 +477,7 @@ it may become vulnerable to new kinds of events.
 
 #### Graceful extensibility
 
-**Graceful extensibility** refers to the ability of a system to change itself in order
+Graceful extensibility refers to the ability of a system to change itself in order
 to better handle the different kinds of surprises that it may face in the
 future. He uses the term *stretching*, asking *how do systems stretch to handle
 surprises?* 
@@ -500,7 +500,7 @@ reaches its boundary*.
 
 #### Sustained adpatability
 
-**Sustained adaptability** refers to systems that are flexibile enough to adapt over long time
+Sustained adaptability refers to systems that are flexibile enough to adapt over long time
 scales. Woods claims that this type of resilience requires that the system
 have a *layered network* architecture, (a necessary but not sufficient
 condition). He argues that a system needs this type of architecture early
