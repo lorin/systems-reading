@@ -456,8 +456,12 @@ Woods argues that the term *resilience* is overloaded. He outlines four commonly
 Woods defines a *surprise* as a disturbance to the system that is outside of the envelope of
 events that the system can normally handle.
 
+#### Rebound
+
 **Rebound** refers to the ability of a system to recover after a surprise.
 In this defintion, more resilient systems are better able to recover from surprises.
+
+#### Robustness
 
 **Robustness** refers to the set of disturbances that the system can respond to
 effectively. In this definition, more resilient systems can gracefully respond to a
@@ -470,6 +474,8 @@ phrase *brittle at its boundaries*).
 
 Woods also points out that as the performance envelope of a system widens,
 it may become vulnerable to new kinds of events.
+
+#### Graceful extensibility
 
 **Graceful extensibility** refers to the ability of a system to change itself in order
 to better handle the different kinds of surprises that it may face in the
@@ -492,6 +498,7 @@ Woods contrasts graceful extensibility with what he calls *brittleness*,
 defined as *how rapidly a system's performance declines when it nears and
 reaches its boundary*.
 
+#### Sustained adpatability
 
 **Sustained adaptability** refers to systems that are flexibile enough to adapt over long time
 scales. Woods claims that this type of resilience requires that the system
@@ -510,26 +517,8 @@ sustain adaptability?
 that can produce sustained adaptability?
 3. How would one know if one succeeded in their engineering?
 
-
 Ultimately, Woods argues that *rebound* and *robustness* concepts have proven to be less useful 
 He emphasizes the value of *graceful extensibility* and *sustained adaptability*.
-
-
-#### rebound
-
-#### robustness
-
-### graceful extensibility
-
-
-### sustained adaptability
-
-
-
-
-
-
-
 
 ## Availability
 
