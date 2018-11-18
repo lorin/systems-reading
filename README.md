@@ -826,6 +826,159 @@ is reliable, you have to do an end-to-end check to verify that the transfer
 succeeded, because there are failure points other than at the levels of
 infrastructure you build on that can provide guarantees.
 
+# The Mathematical Disposition of Structural Engineers
+
+Julie Gainsburg,
+Journal for Research in Mathematics Education
+Vol. 38, No. 5 (Nov., 2007), pp. 477-506,
+DOI: 10.2307/30034962
+
+This paper describes an ethnographic study of structural engineers to
+understand how they use mathematics. She introduces the idea of *skeptical
+reverence*.
+
+[pdf (paywalled)][gainsburg07]
+
+Quotes from paper:
+
+Students come to see mathematics as a rule-driven, linear, solitary,
+school-only activity, in which problms have one correct solution that should be
+quickly evident, and true understanding requires special talent.
+...mathematics is about understanding, sense-making, communicating, and
+discovering patterns; that mathematics i collaborative; and that people with
+differing backgrounds, talents, and perpsectives-including children- can and
+should participate in it.
+
+...many mathematicians do not hold the view that every child can and should
+participate in authentic mathematical activity.
+
+Traditional efforts to demonstrate mathematic's real-world utility take the
+form of "word problems" that thinly disguse mathematial exercises in real
+contexts; these contrived problems do little do sitrub student's view of
+mathematics as a school-only activity.
+
+More often, problems areose because the complexity and uniqueness of each
+building precluded the simple application of easablished procedures.
+
+Engineering theory and methods had to be adapted to each new project in ways
+not immediatley evident, and for much of the work I observed, no established
+procedures were available.
+
+... structural engineering work is by nature iterative.
+
+The most intractable problems I observed stemmed from what I came to see as the
+fundamental problem of structural engineering: that the phenomena at the center
+of the engineer's work (the structure and their behaviors) were nonexistent or
+inaccessible.
+
+Structural engineering is a bootstrapping process. The engineer makes initial
+rough design assumptions to get started, then design and analysis inform each
+other as they converge to a final state through repeated iteration.
+
+Unfortunately, an empirical test of the "correctness" fo the design or analysis
+is rarely possible.
+
+[A design] also had to be justifiable on the bases of feasibility, available
+materials, labor capacity, budget, and time, as well as on the less tangible
+but arguably more crucial grounds that the design solution and the method that
+yielded it made sense and "felt" good" to the engineer.
+
+In some sense, the engineers equated engineering with the exercise of
+engineering judgment: at least, what inspired engineers to identify colleagues
+as expert had more to do with the ability to make judgments than to apply and
+perform mathematics.
+
+As did the engineers I observed, Vick concluded that engineering judgment was
+virtually synonymous with expertise.
+
+Kinds of decisions:
+* Determining what is a good or precise enough calculation or estimation
+* Making assumptions or simplifications to be the baes of mathematical models
+* Overriding mathematically "proven" results
+* Determining appopriate uses of technology tools
+* Assigning qualittive factors (e.g., soil type) and applicable conditions for
+  selecting formulas
+* Overriding official building codes
+* Discretizing (grouping elemtns to reduce the number of types to be designed)
+
+
+Engineering judgment often entailed a nonmathematical decision about a
+situation that could not be adequately mathematized; that is, it sometimes
+replaced mathematical resources, bridging unmathematizable gaps in the analytic
+process.
+
+...engineering judgement had no recourse to proof; it could not be verified.
+
+Again, there were no established rules to guide these sorts of decisions, yet
+they had to be made well. The consequences of poor judgment here ranged from
+increased time and cost to catastrophic structural failure.
+
+
+In this episode, Micahel resorted to engineering judgment to determine his
+degree of trust in the results of their mathematical modeling and what to do
+when that trust was shaken.
+
+On occasion, they even rejected proven results that they felt were dedutivley
+sound, because they were impractical. In these cases, the engineers relied on
+judgment to convince themselves that ocerriding the proof would be safe and
+justifiable.
+
+Proof, however, is not always possible. For example, at one point Michael and
+Ray were forced to exercise judgment when no mathematical method was available.
+
+The concept of engineering judgment reifies the process of prioritizing and
+selecting among these resources, task by task, and I contend that engineering
+judgment, rather than mathematics, is hegemonic over the practice of structural
+engineering.
+
+Mathematics enables anlaysis, but analysis can only be retrospective.
+Matheamtical theories and methods do not point to particular designs or best
+methods of analysis and so cannot serve as the ultimate authority for
+engineering work.
+
+The structureal engineers' mathematical point of view appears to be one of
+skeptical reverence-matheamatics is a powerful and necessary tool that must be
+used judiciously and skeptically.
+
+
+The end products of structural work are a symbolically expressed design and a
+story about how that design came to be.
+
+That story .... erases nearly all traces of iterations, missteps, and rejected
+methods...
+
+The new official story presented to building officials, owners and contractors is straightforward, linear, and rational, aimed to create the impression that the design solution was the inevitable consequence of the constraints and the theory, that the analysis took the only logical route, and that the process
+unfolded unimpeded, step by predictable step.
+
+He admitted to using computerized anlyses, post hoc, to justify solutions he
+had attained using "classical" (approximation) methods:
+
+Practically speaking, could I get it through a city building department? No...
+Could I get it through a peer reviewer? No. Everyone in the industry believes
+in computers. So the issue for me, the challenge, is to make the computer come
+up with the right answer. I use all the classical methods to figure out what
+the answer ought to be, and then I use that figure to figure out exactly how
+I'm going to arrange my model.
+
+So I think that over-reliance on a mathematical process actually obscures the fundamental nature of the behavior you're trying to describe.
+
+Matehmatics is fundamental to solving structural engineering problems.
+
+People may be more inclined to use mathematics, and in more effective ways, in
+everday life and work if their school training acknowledged that "doing
+everyday math" larbely means deciding how, when and when not to use
+mmathematics, and if they were offered opporutnities to make and reflect on
+such decisions.
+
+authentic problems from high-tech professions are usually inapporpriate for the
+classroom, for practical reasons and because students lack athe domain
+knowledge to make judgments about the use of mathematics and other resources.
+
+A worthy challenge for mathematics educators is to make the matehamtical
+products of professional engineersa nd scientists accessible to students for
+analysis, even if sttudents are incapable fo producing such work themselves.
+
+
 
 [gray85]: http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf
 [armstrong03]: http://www.erlang.org/download/armstrong_thesis_2003.pdf
@@ -840,3 +993,5 @@ infrastructure you build on that can provide guarantees.
 [besnard14]: https://hal-mines-paristech.archives-ouvertes.fr/hal-00720270
 [lampson83]: https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/
 [saltzer84]: http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf
+[gainsburg07]: https://www.jstor.org/stable/30034962 
+
