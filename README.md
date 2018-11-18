@@ -976,8 +976,8 @@ knowledge to make judgments about the use of mathematics and other resources.
 
 A worthy challenge for mathematics educators is to make the matehamtical
 products of professional engineersa nd scientists accessible to students for
-analysis, even if sttudents are incapable fo producing such work themselves.
-
+analysis, even if sttudents are incapable of producing such work
+themselves.
 
 
 [gray85]: http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf
