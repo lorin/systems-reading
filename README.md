@@ -437,8 +437,70 @@ normal work.
     5. Implications for research and for control of human behavior
 11. Conclusion
 
+### Resilience is a verb
+
+David D. Woods, 2018,
+In book: IRGC resource guide on resilience (vol. 2): Domains of resilience for complex interconnected systems,
+Publisher: EPFL International Risk Governance Center,
+<https://www.researchgate.net/publication/329035477_Resilience_is_a_Verb>
+
+Resilience refers to a system's capacity to adapt to unforeseen surprises (SNAFUs) that result from breakdowns
+in standard plans and automation.
+
+This includes capacity:
+
+* to anticipate - see signs of trouble ahead and adapt early
+* to synchronize - adjust how different roles at different levels coordinate
+* to be ready to respond - developing response capabilities that can be
+  deployed and mobilized
+* for proactive learning - learning about brittleness and sources of resilient
+  performance
+
+Four capabilities provide the basis for continuous adaptation:
+* *Initiative*  
+* *Reciprocity* across roles and levels
+* Tangible experiences of surprise 
+* Proactive learning from well-handled surprises
+
+Key terms: resilience, adapt, adaptive capacity, SNAFUs, SNAFU catching,
+anticipate, synchronize, proactive learning, initiative, reciprocity, tangible
+experiences, plans, goals
+
+Notable quotes:
+
+* Resilience is about what a system can do
+* Resilience concerns the capabilities a system needs to respond to inevitable
+  surprises
+* system has some ability to recognize when it's adequate to continue the plan,
+  to continue to work in the usual way, and when it is not adequate to continue
+  on, given the demands,c hanges and context ongoing or upcoming.
+* resilient performance depends on the ability to adapt outside of the standard
+  plans as thse inevitably break down.
+* All organizations are adaptive systems, consist of a network of adaptive
+  systems, and exist in a web of adaptive systems.
+* The pace of change is accelerated by past successes
+* As scale and interdependencies incrase, a system's performance on average
+  increases, but there is also an increase in the proportion of large
+  collapses/failures.
+* Adapating to handle the regular occurence of SNAFUs makes the work of SNAFU
+  Catching almost invisible.
+* For onganizations to flourish, they need to build and sustain the ability to
+  *continuously adapt*.
+* Organizational systems succeed despite the basic limits of automata and plans
+  in a complex, interdependent and changing environment because responsible
+  people adapt to make the system work despite tis design — SNAFU Catching.
+* The pressures constrain and direct how the expression of initiative
+  *prioritizes* some goals and *sacrifices* other goals when conflicts across
+  goals intensify.
+* tangilbe experiences of surprise are powerful drivers for learning how to
+  guide adaptability.
+* proactive learning from well-handled surprises contributes to re-calibration
+  and model updating.
+* Reslience is a verb ghat refers to capabilities that build and sustain the
+  potential for continuous adaptability.
 
 ### Four concepts for resilience and the implications for the future of resilience engineering
+
 David D. Woods,
 Reliability Engineering and System Safety,
 Volume 141, September 2015, Pages 5-9,
