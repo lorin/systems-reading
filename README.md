@@ -492,7 +492,7 @@ Notable quotes:
 * The pressures constrain and direct how the expression of initiative
   *prioritizes* some goals and *sacrifices* other goals when conflicts across
   goals intensify.
-* tangilbe experiences of surprise are powerful drivers for learning how to
+* tangible experiences of surprise are powerful drivers for learning how to
   guide adaptability.
 * proactive learning from well-handled surprises contributes to re-calibration
   and model updating.
