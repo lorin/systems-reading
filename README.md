@@ -496,7 +496,7 @@ Notable quotes:
   guide adaptability.
 * proactive learning from well-handled surprises contributes to re-calibration
   and model updating.
-* Reslience is a verb ghat refers to capabilities that build and sustain the
+* Reslience is a verb that refers to capabilities that build and sustain the
   potential for continuous adaptability.
 
 ### Four concepts for resilience and the implications for the future of resilience engineering
