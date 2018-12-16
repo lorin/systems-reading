@@ -473,7 +473,7 @@ Notable quotes:
   surprises
 * system has some ability to recognize when it's adequate to continue the plan,
   to continue to work in the usual way, and when it is not adequate to continue
-  on, given the demands,c hanges and context ongoing or upcoming.
+  on, given the demands, changes and context ongoing or upcoming.
 * resilient performance depends on the ability to adapt outside of the standard
   plans as thse inevitably break down.
 * All organizations are adaptive systems, consist of a network of adaptive
