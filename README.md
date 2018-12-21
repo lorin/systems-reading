@@ -665,6 +665,37 @@ An empirical study that explores the reasons why distributed systems
 fail in production by analyzing the root causes of around 200 confirmed system
 failures. You can read [my review](http://neverworkintheory.org/2014/10/08/simple-testing-can-prevent-most-critical-failures.html) of this paper at *It Will Never Work In Theory*.
 
+I also wrote more details on this paper [here](yuan14.md)
+
+### An Analysis of Network-Partitioning Failures in Cloud Systems
+Ahmed Alquraan, Hatem Takruri, Mohammed Alfatafta, and Samer Al-Kiswan
+Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI ’18).
+Oct. 2018
+
+[pdf][alquraan18]
+
+An empirical study that demonstrates how many open source distributed systems
+(including Cassandra, Zookeeper, Mesos, Chronos, Kafka, Redis, Riak, and RabbitMQ) fail badly under network partitions.
+
+The authors built [NEAT](https://dsl.uwaterloo.ca/projects/neat/), a tool for
+injecting network partitions, in order to do these their testing.
+
+The findings:
+
+1. A large percentage (80%) of the studied failures have a catastrophic impact, with data loss being the most common (27%) 
+2. The majority (90%) of the failures are silent, whereas the rest produce warnings that are unatonable
+3. Twenty one percent of the failures lead to permanent damage to the system. This damage persists even after the network partition heals.
+4. Leader election, configuration change, request routing, and data consolidation are the most vulnerable mechanisms to network partitioning.
+5. The majority (64%) of the failures either do not require any client access or require client access to only one side of the network partition.
+6. While the majority (69%) of the failures require a complete partition, a significant percentage of them (29%) are caused by partial partitions.
+7. A majority (83%) of the failures triggered by a network partition require an additional three or fewer input events to manifest.
+8. All of the failures that involve multiple events only manifest if the events happen in a specific order.
+9. The majority (88%) of the failures manifest by isolating a single node, with 45% of the failures manifest by isolating any replica. 
+10. The majority (80%) of the failures are either deterministic or have known timing constraints.
+11. The resolution of 47% of the failures required redesigning a system mechanism.
+12. All failures can be reproduced on a cluster of five nodes, with the majority (83%) of the failures being reproducible with three nodes only.
+13. The majority of the failures (93%) can be reproduced through tests by using a fault injection framework such as NEAT.
+
 ### Notes on Distributed Systems for Youngbloods
 Jeff Hodges,
 Something Similar blog,
@@ -1056,4 +1087,5 @@ themselves.
 [lampson83]: https://www.microsoft.com/en-us/research/publication/hints-for-computer-system-design/
 [saltzer84]: http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf
 [gainsburg07]: https://www.jstor.org/stable/30034962 
+[alquraan18]: https://www.usenix.org/system/files/osdi18-alquraan.pdf
 
