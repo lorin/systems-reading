@@ -1073,6 +1073,33 @@ analysis, even if sttudents are incapable of producing such work
 themselves.
 
 
+# Underground adaptations: case studies from health care
+Shawna J. Perry, Robert L. Wears
+Cognition, Technology & Work,
+Vo. 14, Iss. 3 (Sept. 2012), pp. 253-260
+DOI: 10.1007/s10111-011-0207-2
+[pdf (paywalled)][perry12]
+
+Two observational case studies about new technologies that were introduced into
+hospital emergency departments:
+* electronic charts (replacing paper charts)
+* digital status board (replacing a white board)
+
+In both cases, the replacement technology did not accomodate all of the work
+that the doctors were doing with the previous technologies, and so the doctors
+adapted by using workarounds ("shadow" paper charts, using both old white board
+and new digital status board, carrying papers around). There was work that
+suffered due to the introduction of the new technology.
+
+They summarized their findings as:
+
+* Articulated functions aren't the same as important functions
+* No change is without unintended effects
+* Apparent success is not a sign of success
+* Need to support exceptions
+* Dynamic environments require dynamic designs
+
+
 [gray85]: http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf
 [armstrong03]: http://www.erlang.org/download/armstrong_thesis_2003.pdf
 [hamilton07]: https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/
@@ -1088,4 +1115,5 @@ themselves.
 [saltzer84]: http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf
 [gainsburg07]: https://www.jstor.org/stable/30034962 
 [alquraan18]: https://www.usenix.org/system/files/osdi18-alquraan.pdf
+[perry12]: https://doi.org/10.1007/s10111-011-0207-2
 
