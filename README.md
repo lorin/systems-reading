@@ -1099,6 +1099,167 @@ They summarized their findings as:
 * Need to support exceptions
 * Dynamic environments require dynamic designs
 
+# Risk Management in a dynamic society: a modeling problem
+Jens Rasmussen,
+Safety Science,
+Vol. 27, No. 2/3, (1997), pp 183-217
+DOI: 10.1016/S0925-7535(97)00052-0
+[pdf (paywalled)][rasmussen97]
+
+In this widely cited paper, Rasmussen argues for models of accident causation
+that are cross-disciplinary and system-oriented. 
+
+This paper contains the seeds of Woods's notion of the adaptive universe,
+Dekker's notion of drift, and Leveson's notion of control-theoretic
+systems-based approach to safety.
+
+In particular, he proposes the following risk management framework for
+control of safety in a socio-technical system (section 2):
+
+![Risk management framework](risk-management-framework.png)
+
+He relates accidents to the notion of a system moving towards a boundary
+(section 6):
+
+![Movement to the boundary](boundary.png)
+
+Selected quotes by section
+
+1. Introduction
+    - often found that attempts to improve safety of a system from models of local features were
+    compensated by people adapting to the change in an unpredicted way
+    - control structure embedded in an adaptive social-technical system
+2. The problem space: risk management in a dynamic society
+    - safety depends on control fo work processes to avoid accidenta side effects causing harm
+3. The present dynamic society
+    - very fast pace of change of technology
+    - scale of industrial installations is steadily increasing
+    - rapid development of information and communication technology
+    - very aggressive and competitive environment
+4. Modeling by structural decomposition: tasks, acts and errors
+    - aim of commercial companies change toward narrow focus on financial
+      operations
+    - need more studies of vertical interaction among levels of socio-technical
+      systems
+    - traditional approach:
+        * system decomposed into structural elements
+        * behavior decomposed into events
+        * behavior decomposed into decisions
+    - rules are inadequate to handle all situations
+    - rules, laws, and instructions parctically speaking are never followed to the
+      letter
+    - even in nuclear power operation, modification of instructions repeatedly
+      found
+    - easy for accident investigators to find rule violations in hindsight
+    - difficult for researchers to isolate proper decisions in context
+    - see: naturalistic decision making
+    - successful orgs operate at fringes of usual, accepted practice
+5. Accident causation
+    - accidents are caused by systemic migration of org behavior toward accident under influence of
+      pressure toward cost-effectievness in aggresive, compettitive environment
+6. Modelling by functional abstraction: migration toward the boundary
+    - natural migration of activities toward boundary of acceptable performance
+    - during adaptive search, actors have ample opportunitty to identify 'an effort
+      gradient'
+    - management will normally supply an effetive 'cost gradient'
+    - result: systemic migration toward the boundary of functionally acceptable
+      performance
+    - if crossing boundary is irreversible, error or accident may occur
+    - defense-in-depth: local violation of one of the defense has no immediate,
+      visible effect
+    - defense likely to degenerate systematically through time
+    - explanation of accident in terms of events, acts, & errors not very useful
+      for design of improved systems
+    - new apporach to representing system behavior: mechanisms generating behavior in actual, dynamic work context
+    - analogy: thermo-dynamic models:
+        * boundary conditions
+        * gradients of a field
+7. Control of system performance
+    - old: fighting deviations
+    - new:
+        * make boundaries explicit and known
+        * give opportunitites to develop coping skills at boundaries
+    - increase margin from normal operation to loss-of-control boundary
+    - increase awareness of boundary: instruction & motivation campaigns
+    - safety culture only works as long as acts as *continuous pressure* compensating
+      the *functional pressure* of work environment
+    - most promising general approach: 
+        * explicit identification of boundaries of safe operation
+        * efforts to make boundaries visible to actors
+        * give actors opportunity to leran to cope with the boundaries
+8. Risk management: a control task
+    - risk management to be considered a control function
+    - focused on maintaining particular hazardous, productive process within
+      boundaries of safe operation
+    - systems approach based on control theoretic conepts should be applied to
+      describe overall systems function
+    - studies of risk management must be based on categorisation of hazard sources according to their control requirements
+    - all decision makesrs are busy managing their particular work  domains and
+      their attention will be ofucsed on the control of the means and ends of their
+      normal productive tasks while they strive to meet their production targtes,
+      often under considerable stress to optimise process criteria such as time
+      spent and cost-effectiveness.
+    - accidents are created by the interactio of potential side effects of the
+      performance of several decison makers during their normal work
+    - performance critieria in actual work are very often implicit in company or
+      local work practice, difficult tomake explicit
+    - no control system will perform better than its measuring channel
+    - analyze requirements and constraints of problem space, formulated at
+      several levels of a means-ends hierarchy
+9. Identification of constraints and safe boundaries
+    - contrasts frequent, small-scale accidents with rare, large-scale accidents
+    - proposes development of classification system for hazard sources & their
+      different control requirements:
+        * nature of significant hazard source to control
+        * anatomy of accidents following release of hazard
+    - research calls for cross-disciplinary competency
+10. Present trends in the paradigms of human sciences
+    - behavior of dynamic socio-technical ssytem cannot be represented in terms
+      of task sequences and errors referring to a 'correct' or 'rational'
+      performance
+    - traditional description of human behavior
+        * identification of rational behavior by normative models
+        * actual behavior described in terms of deviation/error wrt normative behavior
+    - current trend: model actual behavior in terms of behavior shaping
+      constraints of env't & adapative mechanisms of human actors in env't
+    - surveys models: 
+          1. normative (e.g. risk analysis & operations procedure design)
+          2. descriptive as deviation from normative (e.g., heuristics & biases)
+          3. descriptive in terms of behavior traces (e.g., natural decision making)
+    - high reliability explained by:
+        * high degree of learning & self-org
+        * facilitated by rapid turn-over of staff in navy
+        * high degree of functional redundancy
+    - desire to ensure organisational learning at all levels
+    - error can only be found if standard of judgment exist
+    - depends on perspective and reference for judgement chosen
+    - causal trees do not include effect of compensating adaption of the people involved
+    - human adaptation frequently compensates for attempts to improve system
+      safety
+    - performance controlled by perception of dynamic control characteristics
+      of the interaction, not 'risk'
+    - safety in the direct interaction with the work environment must be based
+      on the identification of the boundary of safe performance by analysis of
+      the work system, and criteria that drive continuous adaptive modification
+      of behavior
+    - efforts for improvment: control of performance in interaction with
+      boundary, not on control of errors
+    - difficulties in performing reliable diagnosis during disturbances also
+      contributes to accidents
+    - most recent major accidents appear cause by operation of systems outside
+      predicted preconditions for safe operation during critical periods with
+      excessive pressure from a competitive environment
+    - important research issue: adaptive behavior of organiztaions under
+      presure
+11. Conclusion
+    - specific research issues:
+        * taxonomy of hazard sources & their control requirements
+        * vertical interaction among decision makers at all levels of scoeity
+          as it is found for various hazard domains
+        * influence from naturalistic decision making modes on their responses to
+          change and to competitive pressure
+
+
 
 [gray85]: http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf
 [armstrong03]: http://www.erlang.org/download/armstrong_thesis_2003.pdf
@@ -1116,4 +1277,6 @@ They summarized their findings as:
 [gainsburg07]: https://www.jstor.org/stable/30034962 
 [alquraan18]: https://www.usenix.org/system/files/osdi18-alquraan.pdf
 [perry12]: https://doi.org/10.1007/s10111-011-0207-2
+[rasmussen97]: https://doi.org/10.1016/S0925-7535(97)00052-0
+
 
