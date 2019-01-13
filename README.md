@@ -938,7 +938,7 @@ Students come to see mathematics as a rule-driven, linear, solitary,
 school-only activity, in which problms have one correct solution that should be
 quickly evident, and true understanding requires special talent.
 ...mathematics is about understanding, sense-making, communicating, and
-discovering patterns; that mathematics i collaborative; and that people with
+discovering patterns; that mathematics is collaborative; and that people with
 differing backgrounds, talents, and perpsectives-including children- can and
 should participate in it.
 
