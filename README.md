@@ -1260,6 +1260,80 @@ Selected quotes by section
           change and to competitive pressure
 
 
+# A theory of shared understanding for software organizations
+Jorge Aranda,
+PhD dissertation,
+Department of Computer Science
+University of Toronto,
+2010
+[pdf][aranda10]
+
+Aranda proposes *shared understanding* as a theory to explain challenges to
+effective coordination and communication in software engineering organizations.
+
+His theory is outlined in Chapter 5 of the dissertation. A summary of his model
+can be found in figure 5.3 on page 101:
+
+Coordination and communication consist of developing and negotiating a shared
+understanding of:
+
+* goals: What participants wish to achieve as a result of the situation
+* plans: The set of decisions and actions to be taken to address the situation
+* status: The current characteristics of the elements of the situation
+* context: The current characteristics of surrounding elements that may have a
+  bearing on the situation
+
+His model consists of four attributs of interaction that can impact shared understanding:
+
+* Synchrony: synchronous coordination/communication is more effective than asynchronous (async is harder)
+* Proximity: co-located is more effective than distributed (distributed is harder)
+* Proportionality: more effective when responsibility is proportiaional to authority (top-down is harder)
+* Maturity: established patterns of coordination/communication are more effective than novel ones (novel is harder)
+
+## Synchrony
+
+Understanding that is shared *synchronously* to the situation in which it applies is more effective than
+an understanding about multiple potential situations shared asynchronously, in advance.
+
+## Proximity
+
+Developing a shared understanding is most effective when it occurs in physical proximity to its situation.
+One implication is that co-located orgs will be more effective in shared understanding than distributed ones.
+
+## Proportionality
+
+Proportionality refres to a balance between the involvement of each agent in
+the situation and the situation's needs; an alignment of responsibility with authority.
+
+Proportionate coordination consists of coordination that is performed by the
+people who will be primarily affected by the consequences—and most knowledge
+about the details—of the situation they face. It emphasizes shared responsibility and team ownership
+of the strategies used to deal with the production of their systems.
+
+Disproportionate coordination is performed by people unrelated to the situation
+under consideration. It is an imposition of a plan of action and of the goals to pursue in the
+situation, determined by somebody other than those involved in it or by a more fraction of those involved.
+
+When high-level coordination is disproportionate, the goals of some members of
+the organization may be overlooked or dismissed.  Under some circumstances this
+may lead to the successful completion of the software project from the point of
+view of those doing the coordination, but thes ame project may have been a
+failure from the point of view of those organization members that did not have
+a say in goal-setting and planning.
+
+## Maturity
+
+Participants share their understanding taking advantage of their previous
+patterns of behaviour.
+
+As an organization evolves its behavior to face some particular kinds of
+situations, the difficult of establishing a shared understanding of those kinds
+of situations decreases considerably.
+
+Hence, under many situations, the advantages of switching to a promising set of
+coordination and communication patterns has to be weighted against the loss in
+maturity entailed by engaging in a novel set of patterns.
+
 
 [gray85]: http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf
 [armstrong03]: http://www.erlang.org/download/armstrong_thesis_2003.pdf
@@ -1278,5 +1352,4 @@ Selected quotes by section
 [alquraan18]: https://www.usenix.org/system/files/osdi18-alquraan.pdf
 [perry12]: https://doi.org/10.1007/s10111-011-0207-2
 [rasmussen97]: https://doi.org/10.1016/S0925-7535(97)00052-0
-
-
+[aranda10]: http://www.cs.toronto.edu/~jaranda/pubs/ArandaGarcia_Jorge_201011_PhD_thesis.pdf
