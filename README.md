@@ -6,6 +6,8 @@ comments will be biased in that direction. In particular, the
 [availability](#availability) section is specific to high availability
 in distributed systems.
 
+If you're interested in resilience engineering, check out my [resilience engineering notes](https://github.com/lorin/resilience-engineering).
+
 Mark McGranaghan maintains a [services engineering reading list][1] with some
 significant overlap.
 
