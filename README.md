@@ -1001,10 +1001,10 @@ Vol. 27, No. 2/3, (1997), pp 183-217
 DOI: 10.1016/S0925-7535(97)00052-0
 [pdf (paywalled)][rasmussen97]
 
-In this widely cited paper, Rasmussen advocates for a cross-disciplinary, systems-based approach to
-thinking about how accidents occur. He argues that accidents occur because the
-system migrates across a dangerous boundary, and this migration occurs during
-the course of normal work.
+In this widely cited paper, Rasmussen advocates for a cross-disciplinary,
+systems-based approach to thinking about how accidents occur. He argues that
+accidents occur because the system migrates across a dangerous boundary, and
+this migration occurs during the course of normal work.
 
 This paper contains the seeds of Woods's notion of the adaptive universe,
 Dekker's notion of drift, and Leveson's notion of control-theoretic
