@@ -331,113 +331,6 @@ As automation increases, operators have less experience, and therefore when
 they need to take over, they are more likely to make a mistake.
 
 
-### Risk management in a dynamic society: a modelling problem
-Jens Rasmussen,
-Safety Science Vol. 27, No. 2/3, pp. 183-217, 1997
-
-<https://doi.org/10.1016/S0925-7535(97)00052-0>
-
-Rasmussen advocates for a systems-based approach to thinking about how
-accidents occur. He argues that accidents occur because the system migrates
-across a dangerous boundary, and this migration occurs during the course of
-normal work.
-
-#### Terms
-- Systems approach
-- Control-theoretic
-- decisions, acts, and errors
-- hazard source
-- anatomy of accidents
-- energy
-- systems thinking
-
-#### Sentences
-
-- Attempts to improve the safety of a system from models of lacal features were
-  compensated by people adapting to the change in an unpredicted way
-- It is thus becoming increasingly difficult to model systems in isolation and
-  to make small-scale, local experiments to evaluate modles
-- competitive environment
-- They cannot, however, foresee all local contingencies of the work context
-- operators' violations of oformal rules appear to be quite rational
-- behaviour is context dependent
-- commerical success in a competitive environment implies exploitation of the
-  benefit from operating at the fringes of the usual, accepted practice
-- accidentals caused by a systemic migration of organizational behaviour toward accident under the
-  influence of pressure toward cost-effectiveness in an aggressive, competitive
-  environment
-- competitive stress
-- a systemic migration toward the boundary of functionally acceptable
-  performance and, if crossing the boundary is irreversible, an error of an
-  accident may occur
-- it is often concluded by accident investigations that the particular accident
-  was actually waiting for its release
-- The important issue is that the stage for an accidental course of events very
-  likely is prepared through time by the normal effeorts of many actors in
-  their resective daily work context, responding to the standing request to be
-  cost-effective (normal work).
-- an explanation of the accident in terms of events, acts, and errors is not
-  very useful for design of improved systems.
-- new appraoch to representation of system behavior should focus on mechanisms generating behaviour in the acutal, dynamic work context
-- instead of fighting deviations, should make the boundaries explicit and known
-- develop coping skills at the boundaries
-- An empiricial struggle for a good 'safety culture' will never end because it only works as long as it acts as a continuous pressure compensating the functional pressure of the work environment.
-- The most promising general approach to improved risk management appears to be
-  an explicit identification of the boundaries of safe operation together with
-  efforts to make these boundaries visible to the actors and to give them an
-  opportunity to learn to cope with the boundaries.
-- accidents are created by the interaction of potential side effects of hte
-  performance of several decision makers during their normal work.
-- performance crtieria in actual work are often implicit and difficult to make
-  explicit
-- A detailed study of the control requirements of the dominant hazard sources
-  of a work system is therefore mandatory for risk management.
-- In environments where accidents are frequent and small-scale, safety is typically controlled empirically from epidemiological studies of
-  past accidents
-- high reliability explained by high degree of learning & self-organization,
-  faciliated by rapid turn-over of staff in the navy
-- very high degree of functional redundancy, protecting against errors and resource violations
-- risk homeostatis - adaption seeking to maintain a stable level of perceived
-  risk
--  most recent major accidents in large scale industrial systems appear to be
-   caused by operation of the systems outside the predicted preconditions for
-   safe operation during critical periods with excessive pressure from a
-   competitive environment
-
-#### Outline
-
-1. Introduction
-2. The problem space: risk management in a dynamic society
-3. The present dynamic society
-4. Modelling by structural decomposition: tasks, acts and errors
-5. Accident causation
-6. Modelling by functional abstraction: migration toward the boundary
-7. Control of system performance
-8. Risk management: a control task
-    1. Identification of controllers
-    2. Work objectives
-    3. Information on actual state of affairs
-    4. Capability and competence
-    5. Commitment
-9. Identification of constraints and safe boundaries
-10. Present trends in the paradigms of human sciences
-    1. Decision research
-        1. Normative models
-        2. Descriptive models in terms of deviation from normative behavior
-        3. Descriptive models of actual behavior
-    2. Organizational theory
-        1. Normative theories
-        2. Models in terms of deviation from normative behavior
-        3. Models in terms of features shaping organisational behavior
-    3. Occupational safety research
-        1. Models in terms of normative practice
-        2. Models of behaviour in terms of normative performance and errors
-    4. Major accident research
-        1. Normative taks models and work instructions
-        2. Models in terms of deviations from normative performance
-        3. Models in terms of actual behavior of individuals and organizations
-    5. Implications for research and for control of human behavior
-11. Conclusion
 
 ### Resilience is a verb
 
@@ -905,7 +798,7 @@ Two problems with the end-to-end strategy:
 
 Log updates to record the truth about the state of an object.
 
-# End-to-end Arguments in Systems Design
+## End-to-end Arguments in Systems Design
 J.H. Saltzer, D.P. Reed and D.D. Clark,
 ACM Transactions on Computer Systems (TOCS),
 Volume 2 Issue 4, Nov. 1984 
@@ -921,7 +814,7 @@ is reliable, you have to do an end-to-end check to verify that the transfer
 succeeded, because there are failure points other than at the levels of
 infrastructure you build on that can provide guarantees.
 
-# The Mathematical Disposition of Structural Engineers
+## The Mathematical Disposition of Structural Engineers
 
 Julie Gainsburg,
 Journal for Research in Mathematics Education
@@ -1075,7 +968,7 @@ analysis, even if sttudents are incapable of producing such work
 themselves.
 
 
-# Underground adaptations: case studies from health care
+## Underground adaptations: case studies from health care
 Shawna J. Perry, Robert L. Wears
 Cognition, Technology & Work,
 Vo. 14, Iss. 3 (Sept. 2012), pp. 253-260
@@ -1101,15 +994,17 @@ They summarized their findings as:
 * Need to support exceptions
 * Dynamic environments require dynamic designs
 
-# Risk Management in a dynamic society: a modeling problem
+### Risk Management in a dynamic society: a modeling problem
 Jens Rasmussen,
 Safety Science,
 Vol. 27, No. 2/3, (1997), pp 183-217
 DOI: 10.1016/S0925-7535(97)00052-0
 [pdf (paywalled)][rasmussen97]
 
-In this widely cited paper, Rasmussen argues for models of accident causation
-that are cross-disciplinary and system-oriented. 
+In this widely cited paper, Rasmussen advocates for a cross-disciplinary, systems-based approach to
+thinking about how accidents occur. He argues that accidents occur because the
+system migrates across a dangerous boundary, and this migration occurs during
+the course of normal work.
 
 This paper contains the seeds of Woods's notion of the adaptive universe,
 Dekker's notion of drift, and Leveson's notion of control-theoretic
@@ -1125,7 +1020,16 @@ He relates accidents to the notion of a system moving towards a boundary
 
 ![Movement to the boundary](boundary.png)
 
-Selected quotes by section
+#### Terms
+- Systems approach
+- Control-theoretic
+- decisions, acts, and errors
+- hazard source
+- anatomy of accidents
+- energy
+- systems thinking
+
+#### Selected quotes by section
 
 1. Introduction
     - often found that attempts to improve safety of a system from models of local features were
@@ -1262,7 +1166,7 @@ Selected quotes by section
           change and to competitive pressure
 
 
-# A theory of shared understanding for software organizations
+### A theory of shared understanding for software organizations
 Jorge Aranda,
 PhD dissertation,
 Department of Computer Science
@@ -1292,17 +1196,17 @@ His model consists of four attributs of interaction that can impact shared under
 * Proportionality: more effective when responsibility is proportiaional to authority (top-down is harder)
 * Maturity: established patterns of coordination/communication are more effective than novel ones (novel is harder)
 
-## Synchrony
+#### Synchrony
 
 Understanding that is shared *synchronously* to the situation in which it applies is more effective than
 an understanding about multiple potential situations shared asynchronously, in advance.
 
-## Proximity
+#### Proximity
 
 Developing a shared understanding is most effective when it occurs in physical proximity to its situation.
 One implication is that co-located orgs will be more effective in shared understanding than distributed ones.
 
-## Proportionality
+#### Proportionality
 
 Proportionality refres to a balance between the involvement of each agent in
 the situation and the situation's needs; an alignment of responsibility with authority.
@@ -1323,7 +1227,7 @@ view of those doing the coordination, but thes ame project may have been a
 failure from the point of view of those organization members that did not have
 a say in goal-setting and planning.
 
-## Maturity
+### Maturity
 
 Participants share their understanding taking advantage of their previous
 patterns of behaviour.
