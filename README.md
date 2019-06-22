@@ -304,7 +304,7 @@ management
 While it has become cliché that greater complexity creates unreliability, the
 actual story is more complicated... The essence of this robustness, and hence
 of complexity, is the elaboration of highly structured communication,
-computing, adn control networks that also create barriers to cascading failure
+computing, and control networks that also create barriers to cascading failure
 events (quotes Carson & Doyle).
 
 The theory of Highly Optimized Tolerance suggests that systems will evolve
