@@ -723,7 +723,7 @@ that go right.
 Myth: Accident investigation is the logical and rational
 identification of causes based on facts.
 
-Revision: Accident investigation is a social process, where causes aer
+Revision: Accident investigation is a social process, where causes are
 constructed rather than found.
 
 #### Safety first
@@ -845,7 +845,7 @@ form of "word problems" that thinly disguse mathematial exercises in real
 contexts; these contrived problems do little do sitrub student's view of
 mathematics as a school-only activity.
 
-More often, problems areose because the complexity and uniqueness of each
+More often, problems arose because the complexity and uniqueness of each
 building precluded the simple application of easablished procedures.
 
 Engineering theory and methods had to be adapted to each new project in ways
