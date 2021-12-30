@@ -41,7 +41,7 @@ Cognitive Technologies Laboratory,
 University of Chicago,
 Revision D (00.04.21)
 
-[pdf](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
+[Link](https://how.complexsystems.fail/)
 
 Cook presents eighteen observations about systems. It's tempting to simply
 reproduce them all here, but a few examples should suffice to give a sense of
